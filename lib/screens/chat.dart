@@ -65,10 +65,6 @@ Widget Chat(context){
                ],
              ),
 
-
-
-
-
            ],
          ),
        ),
